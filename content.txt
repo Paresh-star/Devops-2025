@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-This is fine commit
-This is incorrect commit
-This is also fine commit
-=======
-This is fine commit
->>>>>>> parent of 6c2ec14 (incorrect commit)
