@@ -1,3 +1,3 @@
 hi
 
-devops - GCP - AWS
+devops - GCP - AWS - Networking - Python
